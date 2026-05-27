@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "movies": [
     {
       "rank": 1,
@@ -1095,7 +1095,7 @@
       "title": "Жестокий романс",
       "release_date": "1984",
       "vote_average": 8.229,
-      "poster_path": "/q1NJZbDujEc4ZEOMKbgcKOTh4Dl.jpg"
+      "poster_path": "/ji88xUX6D5IQAU7SdTo0ZHupO1F.jpg"
     },
     {
       "rank": 142,
@@ -1151,7 +1151,7 @@
       "title": "Ирония судьбы, или С легким паром!",
       "release_date": "",
       "vote_average": 8.204,
-      "poster_path": "/b7hCjU6dgJBzXgbC5BUOcrCm9Zj.jpg"
+      "poster_path": "/oqAwCig5JzaX896QImeVZCXXcpG.jpg"
     },
     {
       "rank": 149,
@@ -3418,6 +3418,14 @@
       "poster_path": "/theB79zav0sACXPxMFgKI3nQIr8.jpg"
     },
     {
+      "rank": 436,
+      "id": 339692,
+      "title": "Выстрел в пустоту",
+      "release_date": "2017",
+      "vote_average": 7.791,
+      "poster_path": "/qLmLz2wtyYvmW8Ult3l2ngOnW8v.jpg"
+    },
+    {
       "rank": 437,
       "id": 8321,
       "title": "Залечь на дно в Брюгге",
@@ -3666,14 +3674,6 @@
       "poster_path": "/1VX7EXBro1ufMfxErlsgMyBc5bQ.jpg"
     },
     {
-      "rank": 469,
-      "id": 265195,
-      "title": "Дикие истории",
-      "release_date": "2014",
-      "vote_average": 7.725,
-      "poster_path": "/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg"
-    },
-    {
       "rank": 470,
       "id": 350,
       "title": "Дьявол носит Prada",
@@ -3730,6 +3730,14 @@
       "poster_path": "/2ogZSc9oGnAzlxuekwCKc3dmKxK.jpg"
     },
     {
+      "rank": 477,
+      "id": 395834,
+      "title": "Ветреная река",
+      "release_date": "2017",
+      "vote_average": 7.698,
+      "poster_path": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg"
+    },
+    {
       "rank": 478,
       "id": 466272,
       "title": "Однажды в… Голливуде",
@@ -3752,14 +3760,6 @@
       "release_date": "2009",
       "vote_average": 7.692,
       "poster_path": "/vxDpI0PwoXNhkoxEvy8BtZAFoYZ.jpg"
-    },
-    {
-      "rank": 481,
-      "id": 1018,
-      "title": "Малхолланд Драйв",
-      "release_date": "2001",
-      "vote_average": 7.685,
-      "poster_path": "/x7A59t6ySylr1L7aubOQEA480vM.jpg"
     },
     {
       "rank": 482,
@@ -4713,7 +4713,7 @@
       "title": "Война Фойла",
       "first_air_date": "2002",
       "vote_average": 8.454,
-      "poster_path": "/hUuozzypTkLeviW65hqs9E5NKcg.jpg"
+      "poster_path": "/dNqHn5UCoa2vodPv5g1nfQE89R4.jpg"
     },
     {
       "rank": 101,
@@ -5269,6 +5269,14 @@
     },
     {
       "rank": 170,
+      "id": 283123,
+      "title": "Мечта Эшрефа",
+      "first_air_date": "2025",
+      "vote_average": 8.34,
+      "poster_path": "/mYG3mcnKwyrPMcZzkO9pIyE9UX1.jpg"
+    },
+    {
+      "rank": 171,
       "id": 693,
       "title": "Отчаянные домохозяйки",
       "first_air_date": "2004",
@@ -5276,20 +5284,12 @@
       "poster_path": "/jNCd3vGMnFMlZrcEOs686ckD22l.jpg"
     },
     {
-      "rank": 171,
+      "rank": 172,
       "id": 231280,
       "title": "Хороший мальчик",
       "first_air_date": "2025",
       "vote_average": 8.337,
       "poster_path": "/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg"
-    },
-    {
-      "rank": 172,
-      "id": 283123,
-      "title": "Мечта Эшрефа",
-      "first_air_date": "2025",
-      "vote_average": 8.336,
-      "poster_path": "/mYG3mcnKwyrPMcZzkO9pIyE9UX1.jpg"
     },
     {
       "rank": 173,
@@ -5529,7 +5529,7 @@
       "title": "Ча-ча-ча в приморском городе",
       "first_air_date": "2021",
       "vote_average": 8.277,
-      "poster_path": "/ub2ZaobABSYtkWKaEycWmMjkorP.jpg"
+      "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg"
     },
     {
       "rank": 203,
@@ -7536,7 +7536,7 @@
       "id": 200680,
       "title": "Доброта",
       "first_air_date": "2022",
-      "vote_average": 8.038,
+      "vote_average": 8.039,
       "poster_path": "/iCFFcUSqI4VHMoa50K25X2UEXxV.jpg"
     },
     {
