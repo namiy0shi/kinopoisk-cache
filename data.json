@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "movies": [
     {
       "rank": 1,
@@ -567,7 +567,7 @@
       "title": "Проект «Конец света»",
       "release_date": "2026",
       "vote_average": 8.39,
-      "poster_path": "/lGNWODvZnfiocvegYSw1bYnm6pt.jpg"
+      "poster_path": "/cleiiADxvT9mEzXHVDdAyaCZCVB.jpg"
     },
     {
       "rank": 73,
@@ -3210,14 +3210,6 @@
       "poster_path": "/qoDjoRP7vYmPZ1lZIMTGzoHG1iR.jpg"
     },
     {
-      "rank": 410,
-      "id": 406,
-      "title": "Ненависть",
-      "release_date": "1995",
-      "vote_average": 7.832,
-      "poster_path": "/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg"
-    },
-    {
       "rank": 411,
       "id": 564,
       "title": "Мумия",
@@ -3370,14 +3362,6 @@
       "poster_path": "/4F9OsKDVbDRuxutQWwmhx04PVu6.jpg"
     },
     {
-      "rank": 430,
-      "id": 11227,
-      "title": "Ангел-А",
-      "release_date": "2005",
-      "vote_average": 7.797,
-      "poster_path": "/ojUGHGfroGRwW7jO0727txepQbC.jpg"
-    },
-    {
       "rank": 431,
       "id": 63,
       "title": "12 обезьян",
@@ -3392,14 +3376,6 @@
       "release_date": "2008",
       "vote_average": 7.796,
       "poster_path": "/oShPzAshoE2wFgzAr6n26Q4veSk.jpg"
-    },
-    {
-      "rank": 433,
-      "id": 403,
-      "title": "Шофер мисс Дэйзи",
-      "release_date": "1989",
-      "vote_average": 7.796,
-      "poster_path": "/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg"
     },
     {
       "rank": 434,
@@ -3474,14 +3450,6 @@
       "poster_path": "/p9hLW1dQckYuNGomOgqaXFMXcmP.jpg"
     },
     {
-      "rank": 443,
-      "id": 322,
-      "title": "Таинственная река",
-      "release_date": "2003",
-      "vote_average": 7.784,
-      "poster_path": "/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg"
-    },
-    {
       "rank": 444,
       "id": 2332,
       "title": "Такси 2",
@@ -3544,14 +3512,6 @@
       "release_date": "2006",
       "vote_average": 7.772,
       "poster_path": "/kGLOLum7xU95spakBEfxCjEfNn0.jpg"
-    },
-    {
-      "rank": 452,
-      "id": 9667,
-      "title": "Пиджак",
-      "release_date": "2005",
-      "vote_average": 7.763,
-      "poster_path": "/bt89UfRhjAvJDAO9CWJnRFXAN3p.jpg"
     },
     {
       "rank": 453,
@@ -3840,14 +3800,6 @@
       "release_date": "2025",
       "vote_average": 7.656,
       "poster_path": "/sm3YCy9Db2TwhIckjsQ247KAxS2.jpg"
-    },
-    {
-      "rank": 489,
-      "id": 11423,
-      "title": "Воспоминания об убийстве",
-      "release_date": "2003",
-      "vote_average": 7.656,
-      "poster_path": "/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg"
     },
     {
       "rank": 490,
@@ -4256,7 +4208,7 @@
       "id": 250307,
       "title": "Питт",
       "first_air_date": "2025",
-      "vote_average": 8.683,
+      "vote_average": 8.684,
       "poster_path": "/qNABFhduyxg5gvzFuuSPFRh2uls.jpg"
     },
     {
@@ -5553,7 +5505,7 @@
       "title": "Ча-ча-ча в приморском городе",
       "first_air_date": "2021",
       "vote_average": 8.277,
-      "poster_path": "/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg"
+      "poster_path": "/ub2ZaobABSYtkWKaEycWmMjkorP.jpg"
     },
     {
       "rank": 204,
@@ -6184,7 +6136,7 @@
       "id": 75219,
       "title": "911 служба спасения",
       "first_air_date": "2018",
-      "vote_average": 8.2,
+      "vote_average": 8.201,
       "poster_path": "/6njUqsd3By2mJsdZm1P0moPLzs3.jpg"
     },
     {
@@ -6265,7 +6217,7 @@
       "title": "Приключения капитана Врунгеля",
       "first_air_date": "",
       "vote_average": 8.191,
-      "poster_path": "/whsIsHDYkm1hDwDBOYOAdgGZzQG.jpg"
+      "poster_path": "/nPUmE2C9EwMrlZhTVOTHSsiSVUp.jpg"
     },
     {
       "rank": 293,
@@ -7857,7 +7809,7 @@
       "title": "Хост-клуб Оранской школы",
       "first_air_date": "2006",
       "vote_average": 8.01,
-      "poster_path": "/rd6QqoO7mOqrfOWiSEa6XL9Jqlv.jpg"
+      "poster_path": "/fdXsErAaVpb06kA1e3YUnMsthuw.jpg"
     },
     {
       "rank": 492,
