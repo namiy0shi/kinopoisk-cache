@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "movies": [
     {
       "rank": 1,
@@ -2471,7 +2471,7 @@
       "title": "Гнев",
       "release_date": "2004",
       "vote_average": 7.976,
-      "poster_path": "/qBDcwxWIL1XxTudHpNIbA0VLwUa.jpg"
+      "poster_path": "/bxKFjHZVGw6m2t7vlAohQQDENeg.jpg"
     },
     {
       "rank": 316,
@@ -2552,14 +2552,6 @@
       "release_date": "1986",
       "vote_average": 7.961,
       "poster_path": "/phCpGqCSBWJqutKxj73COACrlPt.jpg"
-    },
-    {
-      "rank": 326,
-      "id": 54474,
-      "title": "Звезда",
-      "release_date": "2002",
-      "vote_average": 7.96,
-      "poster_path": "/eAphHhkP3NtseCsJ36tUMyT1xrk.jpg"
     },
     {
       "rank": 327,
@@ -2720,14 +2712,6 @@
       "release_date": "2006",
       "vote_average": 7.931,
       "poster_path": "/k41IvHDLgZO2ae7RuU77wQjScIj.jpg"
-    },
-    {
-      "rank": 347,
-      "id": 10229,
-      "title": "Спеши любить",
-      "release_date": "2002",
-      "vote_average": 7.931,
-      "poster_path": "/8lUYMvWdHA0Q0k5F76RQCeCBUkA.jpg"
     },
     {
       "rank": 348,
@@ -3154,14 +3138,6 @@
       "poster_path": "/s2ktgF2ze4aVt9bXBUvxFJllqyd.jpg"
     },
     {
-      "rank": 403,
-      "id": 4951,
-      "title": "10 причин моей ненависти",
-      "release_date": "1999",
-      "vote_average": 7.838,
-      "poster_path": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg"
-    },
-    {
       "rank": 404,
       "id": 10474,
       "title": "Дневник баскетболиста",
@@ -3306,12 +3282,28 @@
       "poster_path": "/oIkuOFFs6MIdPcIbLLefwFtq9yD.jpg"
     },
     {
+      "rank": 422,
+      "id": 49943,
+      "title": "Сёстры",
+      "release_date": "2001",
+      "vote_average": 7.81,
+      "poster_path": "/5pWGgE8RbiaNm95PsdKd6YEOYHS.jpg"
+    },
+    {
       "rank": 423,
       "id": 205596,
       "title": "Игра в имитацию",
       "release_date": "2014",
       "vote_average": 7.808,
       "poster_path": "/uJpPm9i2z9tckfxiKFGwGER3l3x.jpg"
+    },
+    {
+      "rank": 424,
+      "id": 200727,
+      "title": "С любовью, Рози",
+      "release_date": "2014",
+      "vote_average": 7.805,
+      "poster_path": "/2HOd431LX9ggqSpBIJ7qyYhATyo.jpg"
     },
     {
       "rank": 425,
@@ -3386,14 +3378,6 @@
       "poster_path": "/theB79zav0sACXPxMFgKI3nQIr8.jpg"
     },
     {
-      "rank": 434,
-      "id": 339692,
-      "title": "Выстрел в пустоту",
-      "release_date": "2017",
-      "vote_average": 7.791,
-      "poster_path": "/qLmLz2wtyYvmW8Ult3l2ngOnW8v.jpg"
-    },
-    {
       "rank": 435,
       "id": 8321,
       "title": "Залечь на дно в Брюгге",
@@ -3424,6 +3408,14 @@
       "release_date": "1980",
       "vote_average": 7.787,
       "poster_path": "/bu3Qb0fpAFtTLcRAPgj8bK5KrIG.jpg"
+    },
+    {
+      "rank": 439,
+      "id": 73819,
+      "title": "Боец",
+      "release_date": "2010",
+      "vote_average": 7.786,
+      "poster_path": "/qgExpGSPVrmLDwyFsP6K0SiLiNH.jpg"
     },
     {
       "rank": 440,
@@ -3498,6 +3490,14 @@
       "poster_path": "/kGLOLum7xU95spakBEfxCjEfNn0.jpg"
     },
     {
+      "rank": 450,
+      "id": 9667,
+      "title": "Пиджак",
+      "release_date": "2005",
+      "vote_average": 7.763,
+      "poster_path": "/bt89UfRhjAvJDAO9CWJnRFXAN3p.jpg"
+    },
+    {
       "rank": 451,
       "id": 65754,
       "title": "Девушка с татуировкой дракона",
@@ -3544,6 +3544,14 @@
       "release_date": "2010",
       "vote_average": 7.745,
       "poster_path": "/gaNI208wIqL1DD76pg1Mu6EM0hp.jpg"
+    },
+    {
+      "rank": 457,
+      "id": 11329,
+      "title": "Вердикт за деньги",
+      "release_date": "2003",
+      "vote_average": 7.745,
+      "poster_path": "/zwCdI1voOVpJyTNN3Rwe3PVPakX.jpg"
     },
     {
       "rank": 458,
@@ -3600,14 +3608,6 @@
       "release_date": "2013",
       "vote_average": 7.73,
       "poster_path": "/nIKlc3okrp1d0N7R7OA0r11J5rR.jpg"
-    },
-    {
-      "rank": 465,
-      "id": 265195,
-      "title": "Дикие истории",
-      "release_date": "2014",
-      "vote_average": 7.725,
-      "poster_path": "/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg"
     },
     {
       "rank": 466,
@@ -3714,14 +3714,6 @@
       "poster_path": "/x7A59t6ySylr1L7aubOQEA480vM.jpg"
     },
     {
-      "rank": 479,
-      "id": 783416,
-      "title": "Секрет",
-      "release_date": "2020",
-      "vote_average": 7.673,
-      "poster_path": "/Efoat1wsj1kcHzR53MSQjDerL5.jpg"
-    },
-    {
       "rank": 480,
       "id": 435,
       "title": "Послезавтра",
@@ -3784,6 +3776,14 @@
       "release_date": "2025",
       "vote_average": 7.656,
       "poster_path": "/sm3YCy9Db2TwhIckjsQ247KAxS2.jpg"
+    },
+    {
+      "rank": 488,
+      "id": 11423,
+      "title": "Воспоминания об убийстве",
+      "release_date": "2003",
+      "vote_average": 7.656,
+      "poster_path": "/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg"
     },
     {
       "rank": 489,
@@ -4561,7 +4561,7 @@
       "title": "Махабхарата",
       "first_air_date": "2013",
       "vote_average": 8.51,
-      "poster_path": "/k1i8wqUzKHHn73Lkv2gSmbmzF53.jpg"
+      "poster_path": null
     },
     {
       "rank": 86,
@@ -4721,7 +4721,7 @@
       "title": "Младший сын семьи чеболя",
       "first_air_date": "2022",
       "vote_average": 8.452,
-      "poster_path": "/lRtxdLhnmaKYc65WfMHPrE4TuuI.jpg"
+      "poster_path": "/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg"
     },
     {
       "rank": 106,
@@ -5025,7 +5025,7 @@
       "title": "Я псих, но это нормально",
       "first_air_date": "2020",
       "vote_average": 8.375,
-      "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg"
+      "poster_path": "/HKVk1KiNYzIiRQJQOMZfSeZYvC.jpg"
     },
     {
       "rank": 144,
@@ -6817,7 +6817,7 @@
       "title": "Саутленд",
       "first_air_date": "2009",
       "vote_average": 8.124,
-      "poster_path": "/kzNtkN3su6WPokVez3ALxHdnxUA.jpg"
+      "poster_path": "/flj41WynQKea6DVHgRbbPSWOB1t.jpg"
     },
     {
       "rank": 368,
@@ -7241,7 +7241,7 @@
       "title": "Запрет на браки в Чосоне",
       "first_air_date": "2022",
       "vote_average": 8.071,
-      "poster_path": "/xzlMB1nGJtMhr2GnecpHIh7XUZe.jpg"
+      "poster_path": "/kJDfukNqEID4MqZL4lIr0bzQI0t.jpg"
     },
     {
       "rank": 421,
@@ -7601,7 +7601,7 @@
       "title": "Мои призрачные клиенты",
       "first_air_date": "2025",
       "vote_average": 8.026,
-      "poster_path": "/eERbM9lqsb405V43BzGfyYfm3TH.jpg"
+      "poster_path": "/ysc63ghJEM5mXBd9qWEgB0ohWTy.jpg"
     },
     {
       "rank": 466,
