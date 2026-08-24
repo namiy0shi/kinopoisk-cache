@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "movies": [
     {
       "rank": 1,
@@ -2043,11 +2043,11 @@
     },
     {
       "rank": 258,
-      "id": 87018,
+      "id": 59440,
       "title": "Воин",
       "release_date": "2011",
       "vote_average": 8.059,
-      "poster_path": "/uHg3zAz1esSGagojsvdeuQA07Sb.jpg"
+      "poster_path": "/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg"
     },
     {
       "rank": 259,
@@ -7980,6 +7980,6 @@
       "poster_path": "/6SS5c54CQUZBuUbgvrgRozvxV4v.jpg"
     }
   ],
-  "movies_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/10900341/ee4cf395-ef94-45f1-961d-8b1da00ea92f/orig",
-  "series_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/10809116/a31afccf-7069-455b-916c-800fc455b2d2/orig"
+  "movies_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/4716873/aae7b2bd-6ceb-478c-a7d9-6801a729882d/orig",
+  "series_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/10809116/6b5bc780-0fc1-4bf4-9e73-55e020a780a9/orig"
 }
