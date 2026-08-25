@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "movies": [
     {
       "rank": 1,
@@ -23,7 +23,7 @@
       "title": "Форрест Гамп",
       "release_date": "1994",
       "vote_average": 8.92,
-      "poster_path": "/nrl5w0ZsMAvBD7zDWMUA2K0gUCc.jpg"
+      "poster_path": "/6fAVi5Iic2I1mvTW8vfp5kZPJjJ.jpg"
     },
     {
       "rank": 4,
@@ -879,7 +879,7 @@
       "title": "Однажды в Америке",
       "release_date": "1984",
       "vote_average": 8.282,
-      "poster_path": "/6XddHdBsTLjSRwdZKKnRFkygAQO.jpg"
+      "poster_path": "/yXytlW8D8TLIN0iA8tSWMY8NjoR.jpg"
     },
     {
       "rank": 112,
@@ -4553,7 +4553,7 @@
       "title": "Тетрадь смерти",
       "first_air_date": "2006",
       "vote_average": 8.555,
-      "poster_path": "/gctfvLTh6yn0F6AiO20Me5DmwO5.jpg"
+      "poster_path": "/dBDm186A46hKFn7xMLqsawXTucK.jpg"
     },
     {
       "rank": 73,
@@ -7377,7 +7377,7 @@
       "title": "Пиноккио",
       "first_air_date": "2014",
       "vote_average": 8.073,
-      "poster_path": "/5tVQA0URGLpMoHBWNX8I0205SAC.jpg"
+      "poster_path": "/qqB4ftImSYUVAhreLeO8TY0FkDX.jpg"
     },
     {
       "rank": 426,
@@ -7980,6 +7980,6 @@
       "poster_path": "/6SS5c54CQUZBuUbgvrgRozvxV4v.jpg"
     }
   ],
-  "movies_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/4716873/aae7b2bd-6ceb-478c-a7d9-6801a729882d/orig",
-  "series_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/10809116/6b5bc780-0fc1-4bf4-9e73-55e020a780a9/orig"
+  "movies_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/10900341/ee4cf395-ef94-45f1-961d-8b1da00ea92f/orig",
+  "series_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/16490236/41e0cbfe-63d4-487d-b5f4-6f444d077583/orig"
 }
