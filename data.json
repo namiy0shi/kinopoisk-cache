@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "movies": [
     {
       "rank": 1,
@@ -103,7 +103,7 @@
       "title": "Властелин колец: Возвращение короля",
       "release_date": "2003",
       "vote_average": 8.689,
-      "poster_path": "/pacXZMOlhoExDSXllmNwvPqTzc9.jpg"
+      "poster_path": "/60q19ii6RRIWHzVREeLtXUEM42B.jpg"
     },
     {
       "rank": 14,
@@ -183,7 +183,7 @@
       "title": "Властелин колец: Братство кольца",
       "release_date": "2001",
       "vote_average": 8.632,
-      "poster_path": "/5CrZYYasUUxo71m0JXxTTDTsSpV.jpg"
+      "poster_path": "/k66mInzxbRSMCBousQwSnXWuo4G.jpg"
     },
     {
       "rank": 24,
@@ -199,7 +199,7 @@
       "title": "Властелин колец: Две крепости",
       "release_date": "2002",
       "vote_average": 8.628,
-      "poster_path": "/hh34FOvoru2ulC5bXU9cYUEuSkB.jpg"
+      "poster_path": "/fl7QZlAoZ4MLcxvgOaBjeUxlpQt.jpg"
     },
     {
       "rank": 26,
@@ -3762,14 +3762,6 @@
       "poster_path": "/vxDpI0PwoXNhkoxEvy8BtZAFoYZ.jpg"
     },
     {
-      "rank": 474,
-      "id": 1018,
-      "title": "Малхолланд Драйв",
-      "release_date": "2001",
-      "vote_average": 7.687,
-      "poster_path": "/x7A59t6ySylr1L7aubOQEA480vM.jpg"
-    },
-    {
       "rank": 475,
       "id": 633787,
       "title": "Дюна",
@@ -3808,14 +3800,6 @@
       "release_date": "2015",
       "vote_average": 7.662,
       "poster_path": "/WT7mDImTIHzFrtZunY9EGGwMty.jpg"
-    },
-    {
-      "rank": 480,
-      "id": 11423,
-      "title": "Воспоминания об убийстве",
-      "release_date": "2003",
-      "vote_average": 7.659,
-      "poster_path": "/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg"
     },
     {
       "rank": 481,
@@ -3944,14 +3928,6 @@
       "release_date": "1997",
       "vote_average": 7.583,
       "poster_path": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg"
-    },
-    {
-      "rank": 497,
-      "id": 345,
-      "title": "С широко закрытыми глазами",
-      "release_date": "1999",
-      "vote_average": 7.558,
-      "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg"
     },
     {
       "rank": 498,
@@ -4553,7 +4529,7 @@
       "title": "Тетрадь смерти",
       "first_air_date": "2006",
       "vote_average": 8.555,
-      "poster_path": "/dBDm186A46hKFn7xMLqsawXTucK.jpg"
+      "poster_path": "/yzTD7P7dmZRxAQjoNxC1GxOLRiH.jpg"
     },
     {
       "rank": 73,
@@ -7049,7 +7025,7 @@
       "title": "О, моя Венера",
       "first_air_date": "2015",
       "vote_average": 8.11,
-      "poster_path": "/hH9kD6E3iruCvZHNmZVhubroVRV.jpg"
+      "poster_path": "/eMG9OMlqYEqN0NSYFOs6xU0RcI8.jpg"
     },
     {
       "rank": 385,
@@ -7981,5 +7957,5 @@
     }
   ],
   "movies_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/10900341/ee4cf395-ef94-45f1-961d-8b1da00ea92f/orig",
-  "series_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/16490236/41e0cbfe-63d4-487d-b5f4-6f444d077583/orig"
+  "series_cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/10953618/6d71fe68-9f49-417f-82f0-8700195ec7fe/orig"
 }
