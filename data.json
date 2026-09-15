@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "movies": [
     {
       "rank": 1,
@@ -4920,7 +4920,7 @@
       "id": 64581,
       "title": "Мегрэ",
       "first_air_date": "1991",
-      "vote_average": 8.439,
+      "vote_average": 8.438,
       "poster_path": "/g0edW8BO81SbM36kJKnId0oaAjw.jpg"
     },
     {
@@ -4973,19 +4973,19 @@
     },
     {
       "rank": 124,
-      "id": 112398,
-      "title": "Благословение небожителей",
-      "first_air_date": "2020",
-      "vote_average": 8.425,
-      "poster_path": "/bpZGjRLgqfa1C4QA6TxxiycCaLI.jpg"
-    },
-    {
-      "rank": 125,
       "id": 117465,
       "title": "Адский рай",
       "first_air_date": "2023",
       "vote_average": 8.424,
       "poster_path": "/75OaIA4S8ZKFVNmKnTCgAcNqwlC.jpg"
+    },
+    {
+      "rank": 125,
+      "id": 112398,
+      "title": "Благословение небожителей",
+      "first_air_date": "2020",
+      "vote_average": 8.424,
+      "poster_path": "/bpZGjRLgqfa1C4QA6TxxiycCaLI.jpg"
     },
     {
       "rank": 126,
@@ -5416,7 +5416,7 @@
       "id": 1421,
       "title": "Американская семейка",
       "first_air_date": "2009",
-      "vote_average": 8.325,
+      "vote_average": 8.324,
       "poster_path": "/tbTOeLXT56sywk7OS0qCaHzFNO6.jpg"
     },
     {
@@ -5749,19 +5749,19 @@
     },
     {
       "rank": 221,
-      "id": 70649,
-      "title": "Пока ты спишь",
-      "first_air_date": "2017",
-      "vote_average": 8.263,
-      "poster_path": "/5Q4lGfwarE8Xerv49scmFkrFAMk.jpg"
-    },
-    {
-      "rank": 222,
       "id": 46028,
       "title": "Истории Райли",
       "first_air_date": "2014",
       "vote_average": 8.263,
       "poster_path": "/hIxdaGig77KaPeHYSeZB8OSpI1L.jpg"
+    },
+    {
+      "rank": 222,
+      "id": 70649,
+      "title": "Пока ты спишь",
+      "first_air_date": "2017",
+      "vote_average": 8.262,
+      "poster_path": "/5Q4lGfwarE8Xerv49scmFkrFAMk.jpg"
     },
     {
       "rank": 223,
@@ -7421,19 +7421,19 @@
     },
     {
       "rank": 430,
+      "id": 279670,
+      "title": "Берегите женщин",
+      "first_air_date": "1981",
+      "vote_average": 8.078,
+      "poster_path": "/e2C0FK3CBpk2zPiXCJjuT41hFnV.jpg"
+    },
+    {
+      "rank": 431,
       "id": 95396,
       "title": "Разделение",
       "first_air_date": "2022",
       "vote_average": 8.077,
       "poster_path": "/Ag7gBPnh8Cpn5xvCdPPA4RJRN1L.jpg"
-    },
-    {
-      "rank": 431,
-      "id": 279670,
-      "title": "Берегите женщин",
-      "first_air_date": "1981",
-      "vote_average": 8.077,
-      "poster_path": "/e2C0FK3CBpk2zPiXCJjuT41hFnV.jpg"
     },
     {
       "rank": 432,
@@ -7537,7 +7537,7 @@
       "title": "Трогательный комплекс",
       "first_air_date": "2007",
       "vote_average": 8.066,
-      "poster_path": "/dhadiTPPbM1m6eyBKwMr10CYLut.jpg"
+      "poster_path": "/8CnQKoCB0H9SYwm9nxiE4C6x7si.jpg"
     },
     {
       "rank": 445,
