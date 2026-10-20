@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "movies": [
     {
       "rank": 1,
@@ -326,7 +326,7 @@
       "id": 389,
       "title": "12 разгневанных мужчин",
       "release_date": "1957",
-      "vote_average": 8.531,
+      "vote_average": 8.532,
       "poster_path": "/uDFEvhvKrH61KuGWWozRtbw2Rjv.jpg"
     },
     {
@@ -2695,7 +2695,7 @@
       "title": "Интервью с вампиром",
       "release_date": "1994",
       "vote_average": 7.947,
-      "poster_path": "/kTEIiF370PlKNKC1KnEj0APlw1d.jpg"
+      "poster_path": "/eNpX5iJxWUcxFW3TLplcEiP37D.jpg"
     },
     {
       "rank": 338,
@@ -3878,7 +3878,7 @@
       "id": 1018,
       "title": "Малхолланд Драйв",
       "release_date": "2001",
-      "vote_average": 7.688,
+      "vote_average": 7.687,
       "poster_path": "/vAQDExmKkujeNcYSVhLFAzjylA9.jpg"
     },
     {
@@ -4269,14 +4269,6 @@
     },
     {
       "rank": 34,
-      "id": 231725,
-      "title": "Русалочки: Морская магия",
-      "first_air_date": "2024",
-      "vote_average": 8.772,
-      "poster_path": "/v7BK8BS4POSRtvWzhxlmNb5dqYq.jpg"
-    },
-    {
-      "rank": 35,
       "id": 230923,
       "title": "Хватай Сон-джэ и беги",
       "first_air_date": "2024",
@@ -4284,12 +4276,20 @@
       "poster_path": "/5YsAe66JOrausOfDCCg0U3ouXR2.jpg"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "id": 1429,
       "title": "Атака титанов",
       "first_air_date": "2013",
       "vote_average": 8.755,
       "poster_path": "/9whSxgqSW7dPIIMJyM4WG3BYVo7.jpg"
+    },
+    {
+      "rank": 36,
+      "id": 231725,
+      "title": "Русалочки: Морская магия",
+      "first_air_date": "2024",
+      "vote_average": 8.754,
+      "poster_path": "/v7BK8BS4POSRtvWzhxlmNb5dqYq.jpg"
     },
     {
       "rank": 37,
@@ -4520,7 +4520,7 @@
       "id": 276161,
       "title": "Пусть послужит вам уроком",
       "first_air_date": "2026",
-      "vote_average": 8.645,
+      "vote_average": 8.644,
       "poster_path": "/k5XFkspikw2fGcXZ1GwbTRhzJHy.jpg"
     },
     {
@@ -4744,7 +4744,7 @@
       "id": 92685,
       "title": "Дом совы",
       "first_air_date": "2020",
-      "vote_average": 8.57,
+      "vote_average": 8.571,
       "poster_path": "/ywYCENHyhSEypE6rRdJa7dQr3GX.jpg"
     },
     {
@@ -4784,7 +4784,7 @@
       "id": 68187,
       "title": "Идиот",
       "first_air_date": "2006",
-      "vote_average": 8.561,
+      "vote_average": 8.562,
       "poster_path": "/iDOXfnOMozgNm6XIYmnyICOFqjO.jpg"
     },
     {
@@ -5069,6 +5069,14 @@
     },
     {
       "rank": 134,
+      "id": 65249,
+      "title": "Город, в котором меня нет",
+      "first_air_date": "2016",
+      "vote_average": 8.485,
+      "poster_path": "/zJOoyPtDy5FSMdbKXUXAMaPz1Ud.jpg"
+    },
+    {
+      "rank": 135,
       "id": 96185,
       "title": "Долгая дорога в дюнах",
       "first_air_date": "1982",
@@ -5076,7 +5084,7 @@
       "poster_path": "/u0nIwSTcjW0Fe0ChGmZJ1T1vFYQ.jpg"
     },
     {
-      "rank": 135,
+      "rank": 136,
       "id": 1438,
       "title": "Прослушка",
       "first_air_date": "2002",
@@ -5084,20 +5092,12 @@
       "poster_path": "/aoy6XphJtLvCfVmLFqBLaR56BAW.jpg"
     },
     {
-      "rank": 136,
+      "rank": 137,
       "id": 119769,
       "title": "Таксист",
       "first_air_date": "2021",
       "vote_average": 8.484,
       "poster_path": "/eAJaqqIw27AYGomDl00cek7AQTM.jpg"
-    },
-    {
-      "rank": 137,
-      "id": 65249,
-      "title": "Город, в котором меня нет",
-      "first_air_date": "2016",
-      "vote_average": 8.484,
-      "poster_path": "/zJOoyPtDy5FSMdbKXUXAMaPz1Ud.jpg"
     },
     {
       "rank": 138,
@@ -5648,7 +5648,7 @@
       "id": 218230,
       "title": "Игра смерти",
       "first_air_date": "2023",
-      "vote_average": 8.384,
+      "vote_average": 8.383,
       "poster_path": "/qEWCIAO0colrxTS8P2Is77wsdAz.jpg"
     },
     {
@@ -5656,7 +5656,7 @@
       "id": 60863,
       "title": "Волейбол!!",
       "first_air_date": "2014",
-      "vote_average": 8.384,
+      "vote_average": 8.382,
       "poster_path": "/5lrJDEQjwCJPLdlfhBmJ8mfpnpX.jpg"
     },
     {
@@ -5877,14 +5877,6 @@
     },
     {
       "rank": 235,
-      "id": 231280,
-      "title": "Хороший мальчик",
-      "first_air_date": "2025",
-      "vote_average": 8.349,
-      "poster_path": "/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg"
-    },
-    {
-      "rank": 236,
       "id": 204589,
       "title": "Мой идеальный незнакомец",
       "first_air_date": "2023",
@@ -5892,12 +5884,20 @@
       "poster_path": "/mWsEfV8SHCOtkHxJoTj7NW86Uh1.jpg"
     },
     {
-      "rank": 237,
+      "rank": 236,
       "id": 65484,
       "title": "В поисках капитана Гранта",
       "first_air_date": "1986",
       "vote_average": 8.348,
       "poster_path": "/8BDG6C7cYWYJvL6GpkMjpc5NOfL.jpg"
+    },
+    {
+      "rank": 237,
+      "id": 231280,
+      "title": "Хороший мальчик",
+      "first_air_date": "2025",
+      "vote_average": 8.347,
+      "poster_path": "/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg"
     },
     {
       "rank": 238,
@@ -6405,19 +6405,19 @@
     },
     {
       "rank": 301,
-      "id": 60808,
-      "title": "Нет игры – нет жизни",
-      "first_air_date": "2014",
-      "vote_average": 8.271,
-      "poster_path": "/iMyAt7UQz6ZGaJuSoWhMTcZiJ7J.jpg"
-    },
-    {
-      "rank": 302,
       "id": 300388,
       "title": "Розы и грехи",
       "first_air_date": "2025",
       "vote_average": 8.27,
       "poster_path": "/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg"
+    },
+    {
+      "rank": 302,
+      "id": 60808,
+      "title": "Нет игры – нет жизни",
+      "first_air_date": "2014",
+      "vote_average": 8.27,
+      "poster_path": "/iMyAt7UQz6ZGaJuSoWhMTcZiJ7J.jpg"
     },
     {
       "rank": 303,
@@ -6504,7 +6504,7 @@
       "id": 138171,
       "title": "Алп-Арслан: Великий Сельджук",
       "first_air_date": "2021",
-      "vote_average": 8.263,
+      "vote_average": 8.262,
       "poster_path": "/zXnP3YEN3saxyncRLz7kxc6TvjX.jpg"
     },
     {
@@ -7037,19 +7037,19 @@
     },
     {
       "rank": 380,
+      "id": 88794,
+      "title": "Ворон",
+      "first_air_date": "2019",
+      "vote_average": 8.216,
+      "poster_path": "/vNZDNB2qo1GJD3qvVmvOhZfcwyX.jpg"
+    },
+    {
+      "rank": 381,
       "id": 274671,
       "title": "Начало после конца",
       "first_air_date": "2025",
       "vote_average": 8.216,
       "poster_path": "/aYdlR7Wl02AiTgKy4HWQj9Z4YSd.jpg"
-    },
-    {
-      "rank": 381,
-      "id": 88794,
-      "title": "Ворон",
-      "first_air_date": "2019",
-      "vote_average": 8.215,
-      "poster_path": "/vNZDNB2qo1GJD3qvVmvOhZfcwyX.jpg"
     },
     {
       "rank": 382,
@@ -7065,7 +7065,7 @@
       "title": "911 служба спасения",
       "first_air_date": "2018",
       "vote_average": 8.215,
-      "poster_path": "/6njUqsd3By2mJsdZm1P0moPLzs3.jpg"
+      "poster_path": "/u6HuWWohheyzAj5PUn4rBd0eH92.jpg"
     },
     {
       "rank": 384,
@@ -7421,19 +7421,19 @@
     },
     {
       "rank": 428,
+      "id": 61459,
+      "title": "Паразит: Учение о жизни",
+      "first_air_date": "2014",
+      "vote_average": 8.184,
+      "poster_path": "/tKArAWlgpuEl7q8CRmBfSVLnFan.jpg"
+    },
+    {
+      "rank": 429,
       "id": 64840,
       "title": "Сигнал",
       "first_air_date": "2016",
       "vote_average": 8.183,
       "poster_path": "/mB6FlHFK0A4DPyuGTrlM4QgEkIH.jpg"
-    },
-    {
-      "rank": 429,
-      "id": 61459,
-      "title": "Паразит: Учение о жизни",
-      "first_air_date": "2014",
-      "vote_average": 8.183,
-      "poster_path": "/tKArAWlgpuEl7q8CRmBfSVLnFan.jpg"
     },
     {
       "rank": 430,
@@ -7709,19 +7709,19 @@
     },
     {
       "rank": 464,
-      "id": 66292,
-      "title": "Большая маленькая ложь",
-      "first_air_date": "2017",
-      "vote_average": 8.161,
-      "poster_path": "/tZToG4klvEczhQOfehELSbAgq51.jpg"
-    },
-    {
-      "rank": 465,
       "id": 80300,
       "title": "Угрюм-река",
       "first_air_date": "1969",
       "vote_average": 8.161,
       "poster_path": "/jbrEk3kde9Bk946PGQmu2dRLWnz.jpg"
+    },
+    {
+      "rank": 465,
+      "id": 66292,
+      "title": "Большая маленькая ложь",
+      "first_air_date": "2017",
+      "vote_average": 8.16,
+      "poster_path": "/tZToG4klvEczhQOfehELSbAgq51.jpg"
     },
     {
       "rank": 466,
@@ -7896,7 +7896,7 @@
       "id": 84503,
       "title": "Ближе некуда",
       "first_air_date": "2020",
-      "vote_average": 8.143,
+      "vote_average": 8.142,
       "poster_path": "/mlagP6vAsOwrgwLd02SAAUmPIPb.jpg"
     },
     {
